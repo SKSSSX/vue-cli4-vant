@@ -1,0 +1,6 @@
+.env.*
+/src/utils/tools.js
+node_modules
+dist
+build
+package-lock.json

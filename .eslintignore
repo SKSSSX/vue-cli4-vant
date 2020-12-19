@@ -1,0 +1,5 @@
+.env.*
+/src/utils/tools.js
+/dist/
+/mock/
+vue.config.js
