@@ -73,7 +73,7 @@ module.exports = {
               stage: 3
           }),
           require('postcss-pxtorem')({
-            rootValue: 14, // 换算的基数
+            rootValue: 52, // 换算的基数
             unitPrecision: 5,
             propWhiteList: [
                 'font',
